@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["problem"],{"94ed":function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("重灾区")])},r=[],u={},c=u,o=t("2877"),s=Object(o["a"])(c,l,r,!1,null,null,null);n["default"]=s.exports}}]);
